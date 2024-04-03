@@ -1,9 +1,0 @@
-﻿  contact.c
-E:\vs2022\c learn\test\3_17\contact.h(77,30): warning C4028: 形参 1 与声明不同
-  (编译源文件“contact.c”)
-  
-E:\vs2022\c learn\test\3_17\contact.c(137,33): warning C4028: 形参 1 与声明不同
-E:\vs2022\c learn\test\3_17\contact.c(254,2): warning C4047: “return”:“int”与“char *”的间接级别不同
-E:\vs2022\c learn\test\3_17\contact.c(266,33): warning C4028: 形参 1 与声明不同
-E:\vs2022\c learn\test\3_17\contact.c(132,1): warning C4716: “Addcontact”: 必须返回一个值
-  3_17.vcxproj -> E:\vs2022\c learn\test\3_17\x64\Debug\3_17.exe
